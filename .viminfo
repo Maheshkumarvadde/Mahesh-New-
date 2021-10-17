@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1634476741,,"wq"
 :q!
 |2,0,1634402478,,"q!"
-:wq
-|2,0,1634387800,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,22 +27,86 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
-|4,48,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
-'1  1  67  ~/mahesh.java
-|4,49,1,67,1634387800,"~/mahesh.java"
-'2  1  24  ~/loffer.sh
-|4,50,1,24,1634237817,"~/loffer.sh"
-'3  1  67  ~/mahesh.java
-|4,51,1,67,1634237766,"~/mahesh.java"
+'0  5  5  ~/.gitignore
+|4,48,5,5,1634476741,"~/.gitignore"
+'1  5  5  ~/.gitignore
+|4,49,5,5,1634476735,"~/.gitignore"
+'2  1  0  ~/.gitignore
+|4,50,1,0,1634476652,"~/.gitignore"
+'3  1  0  ~/.gitignore
+|4,51,1,0,1634476652,"~/.gitignore"
+'4  1  0  ~/.gitignore
+|4,52,1,0,1634476652,"~/.gitignore"
+'5  1  0  ~/.gitignore
+|4,53,1,0,1634476652,"~/.gitignore"
+'6  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,54,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+'7  1  67  ~/mahesh.java
+|4,55,1,67,1634387800,"~/mahesh.java"
+'8  1  24  ~/loffer.sh
+|4,56,1,24,1634237817,"~/loffer.sh"
+'9  1  67  ~/mahesh.java
+|4,57,1,67,1634237766,"~/mahesh.java"
 
 # Jumplist (newest first):
+-'  5  5  ~/.gitignore
+|4,39,5,5,1634476741,"~/.gitignore"
+-'  5  5  ~/.gitignore
+|4,39,5,5,1634476735,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1634476661,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1634476661,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1634476652,"~/.gitignore"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
 -'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
 |4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
 -'  1  67  ~/mahesh.java
 |4,39,1,67,1634387800,"~/mahesh.java"
 -'  1  67  ~/mahesh.java
 |4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
 -'  1  24  ~/loffer.sh
 |4,39,1,24,1634237817,"~/loffer.sh"
 -'  1  24  ~/loffer.sh
@@ -51,6 +115,118 @@
 |4,39,1,24,1634237817,"~/loffer.sh"
 -'  1  24  ~/loffer.sh
 |4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
 -'  1  67  ~/mahesh.java
 |4,39,1,67,1634237766,"~/mahesh.java"
 -'  1  67  ~/mahesh.java
@@ -61,6 +237,22 @@
 |4,39,1,67,1634237766,"~/mahesh.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1634476737	0
+	"	5	5
+	^	5	6
+	.	5	6
+	+	5	42
+	+	2	0
+	+	4	1
+	+	2	0
+	+	1	0
+	+	4	0
+	+	3	1
+	+	2	1
+	+	5	0
+	+	5	6
 
 > ~/shellscripts.material/Shell Scripting #1.pdf
 	*	1634402475	0

@@ -187,3 +187,33 @@ clear
 top
 clear
 git log
+sudo yum update
+clear
+top
+clear
+git status
+git add .
+git status
+git commit -m "shell scripts"
+git status
+git push mkm master
+clear
+top
+clear
+git remote -v
+git clone https://github.com/Maheshkumarvadde/maven-web-application.git
+ls
+git add .
+git rm --cached CICDpipeline/
+LS
+ls
+git status
+git commit -m "mavenwebapp"
+ls
+git push mkm master
+clear
+top
+git pull mkm master
+top
+git log
+top
