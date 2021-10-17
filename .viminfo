@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1634402478,,"q!"
 :wq
-|2,0,1634237817,,"wq"
+|2,0,1634387800,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,34 @@
 # Registers:
 
 # File marks:
-'0  1  24  ~/loffer.sh
-|4,48,1,24,1634237817,"~/loffer.sh"
+'0  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,48,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
 '1  1  67  ~/mahesh.java
-|4,49,1,67,1634237766,"~/mahesh.java"
+|4,49,1,67,1634387800,"~/mahesh.java"
+'2  1  24  ~/loffer.sh
+|4,50,1,24,1634237817,"~/loffer.sh"
+'3  1  67  ~/mahesh.java
+|4,51,1,67,1634237766,"~/mahesh.java"
 
 # Jumplist (newest first):
+-'  1  0  ~/shellscripts.material/Shell Scripting #1.pdf
+|4,39,1,0,1634402478,"~/shellscripts.material/Shell Scripting #1.pdf"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634387800,"~/mahesh.java"
 -'  1  24  ~/loffer.sh
 |4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  24  ~/loffer.sh
+|4,39,1,24,1634237817,"~/loffer.sh"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
+-'  1  67  ~/mahesh.java
+|4,39,1,67,1634237766,"~/mahesh.java"
 -'  1  67  ~/mahesh.java
 |4,39,1,67,1634237766,"~/mahesh.java"
 -'  1  67  ~/mahesh.java
@@ -40,16 +62,20 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/shellscripts.material/Shell Scripting #1.pdf
+	*	1634402475	0
+	"	1	0
+
+> ~/mahesh.java
+	*	1634387796	0
+	"	1	67
+	^	1	68
+	.	1	67
+	+	1	67
+
 > ~/loffer.sh
 	*	1634237816	0
 	"	1	24
 	^	1	25
 	.	1	24
 	+	1	24
-
-> ~/mahesh.java
-	*	1634237765	0
-	"	1	67
-	^	1	68
-	.	1	67
-	+	1	67
